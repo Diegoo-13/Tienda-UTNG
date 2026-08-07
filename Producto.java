@@ -5,6 +5,10 @@ public class Producto {
     private double precio;
     private int stock;
 
+    public Producto(){
+
+    }
+    
     // Constructor
     public Producto (int id, String nombre, double precio, int stock){
         this.id = id;
