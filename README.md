@@ -102,3 +102,11 @@ git clone URL_DEL_REPOSITORIO
 **Juan Diego Aguilar Bautista**
 
 Universidad Tecnológica del Norte de Guanajuato
+
+## Tecnologías utilizadas
+
+- Java 26
+- JDBC
+- SQL Server 2025
+- Git
+- GitHub
